@@ -1,10 +1,10 @@
 /* B70 */
-#define BOARD_PID		"B70"
-#define BOARD_NAME		"B70"
-#define BOARD_DESC		"B70 Wireless Router"
-#define BOARD_VENDOR_NAME	"HiWiFi/Gee Technology"
-#define BOARD_VENDOR_URL		"http://www.hiwifi.com/"
-#define BOARD_MODEL_URL		"http://www.hiwifi.com/"
+#define BOARD_PID		"Padavan"
+#define BOARD_NAME		"Padavan"
+#define BOARD_DESC		"Padavan Wireless Router"
+#define BOARD_VENDOR_NAME	"Padavan/Gee Technology"
+#define BOARD_VENDOR_URL		"http://www.Padavan.com/"
+#define BOARD_MODEL_URL		"http://www.Padavan.com/"
 #define BOARD_BOOT_TIME		30
 #define BOARD_FLASH_TIME		120
 #undef  BOARD_GPIO_BTN_FN1
